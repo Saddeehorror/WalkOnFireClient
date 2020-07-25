@@ -2612,3 +2612,272 @@ Walk on Fire 2.4.1 rev 0 (alpha) made by otclient.ovh built on Jun 22 2020 for a
 Connecting to: 198.58.107.178:7171
 Login to 198.58.107.178:7172
 Exiting application..
+GPU GeForce GTX 750 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 446.14
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/luisa/Documents/GitHub/WalkOnFireClient/'
+== application started at Jul 12 2020 12:58:03
+Walk on Fire 2.4.1 rev 0 (alpha) made by otclient.ovh built on Jun 22 2020 for arch x86
+Connecting to: 198.58.107.178:7171
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+ERROR: ProtocolGame parse message exception (75 bytes, 61 unread, last opcode is 112, prev opcode is -1): unable to create item with invalid id 24441
+ERROR: ProtocolGame parse message exception (41 bytes, 7 unread, last opcode is 110, prev opcode is -1): unable to create item with invalid id 24441
+ERROR: ProtocolGame parse message exception (41 bytes, 7 unread, last opcode is 110, prev opcode is -1): unable to create item with invalid id 24441
+ERROR: ProtocolGame parse message exception (41 bytes, 7 unread, last opcode is 110, prev opcode is -1): unable to create item with invalid id 24441
+ERROR: ProtocolGame parse message exception (41 bytes, 7 unread, last opcode is 110, prev opcode is -1): unable to create item with invalid id 24441
+ERROR: ProtocolGame parse message exception (41 bytes, 7 unread, last opcode is 110, prev opcode is -1): unable to create item with invalid id 24441
+ERROR: ProtocolGame parse message exception (41 bytes, 7 unread, last opcode is 110, prev opcode is -1): unable to create item with invalid id 24441
+ERROR: ProtocolGame parse message exception (25 bytes, 8 unread, last opcode is 106, prev opcode is -1): unable to create item with invalid id 24441
+ERROR: ProtocolGame parse message exception (5816 bytes, 4125 unread, last opcode is 100, prev opcode is 108): unable to create item with invalid id 24441
+ERROR: no thing at pos:123 339 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: no thing at pos:123 338 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: no thing at pos:123 337 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: no thing at pos:123 338 6, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+ERROR: ProtocolGame parse message exception (25 bytes, 8 unread, last opcode is 106, prev opcode is -1): unable to create item with invalid id 24441
+Login to 198.58.107.178:7172
+ERROR: ProtocolGame parse message exception (11663 bytes, 8577 unread, last opcode is 100, prev opcode is 15): unable to create item with invalid id 24441
+ERROR: ProtocolGame parse message exception (548 bytes, 304 unread, last opcode is 103, prev opcode is 109): unable to create item with invalid id 24441
+ERROR: ProtocolGame parse message exception (5253 bytes, 2235 unread, last opcode is 100, prev opcode is 108): unable to create item with invalid id 24441
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+ERROR: ProtocolGame parse message exception (25 bytes, 8 unread, last opcode is 106, prev opcode is -1): unable to create item with invalid id 24441
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Exiting application..
+GPU GeForce GTX 750 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 446.14
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/luisa/Documents/GitHub/WalkOnFireClient/'
+== application started at Jul 12 2020 18:58:50
+Walk on Fire 2.4.1 rev 0 (alpha) made by otclient.ovh built on Jun 22 2020 for arch x86
+Connecting to: 198.58.107.178:7171
+Login to 198.58.107.178:7172
+Exiting application..
+GPU GeForce GTX 750 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 446.14
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/luisa/Documents/GitHub/WalkOnFireClient/'
+== application started at Jul 12 2020 19:10:51
+Walk on Fire 2.4.1 rev 0 (alpha) made by otclient.ovh built on Jun 22 2020 for arch x86
+Connecting to: 198.58.107.178:7171
+Connecting to: 198.58.107.178:7171
+Connecting to: 198.58.107.178:7171
+Login to 198.58.107.178:7172
+Exiting application..
+GPU GeForce GTX 750 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 446.14
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/luisa/Documents/GitHub/WalkOnFireClient/'
+== application started at Jul 12 2020 19:13:53
+Walk on Fire 2.4.1 rev 0 (alpha) made by otclient.ovh built on Jun 22 2020 for arch x86
+Connecting to: 198.58.107.178:7171
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Login to 198.58.107.178:7172
+Exiting application..
+GPU GeForce GTX 750 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 446.14
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/luisa/Documents/GitHub/WalkOnFireClient/'
+== application started at Jul 12 2020 21:10:26
+Walk on Fire 2.4.1 rev 0 (alpha) made by otclient.ovh built on Jun 22 2020 for arch x86
+Connecting to: 198.58.107.178:7171
+Login to 198.58.107.178:7172
+Exiting application..
+GPU GeForce GTX 750 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 446.14
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/luisa/Documents/GitHub/WalkOnFireClient/'
+== application started at Jul 14 2020 19:38:05
+Walk on Fire 2.4.1 rev 0 (alpha) made by otclient.ovh built on Jun 22 2020 for arch x86
+Exiting application..
+GPU GeForce GTX 750 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 446.14
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/luisa/Documents/GitHub/WalkOnFireClient/'
+== application started at Jul 15 2020 17:47:03
+Walk on Fire 2.4.1 rev 0 (alpha) made by otclient.ovh built on Jun 22 2020 for arch x86
+Exiting application..
+GPU GeForce GTX 750 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 446.14
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/luisa/Documents/GitHub/WalkOnFireClient/'
+== application started at Jul 19 2020 14:54:04
+Walk on Fire 2.4.1 rev 0 (alpha) made by otclient.ovh built on Jun 22 2020 for arch x86
+Exiting application..
+GPU GeForce GTX 750 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 446.14
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/luisa/Documents/GitHub/WalkOnFireClient/'
+== application started at Jul 20 2020 13:13:06
+Walk on Fire 2.4.1 rev 0 (alpha) made by otclient.ovh built on Jun 22 2020 for arch x86
+Exiting application..
+GPU GeForce GTX 750 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 446.14
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/luisa/Documents/GitHub/WalkOnFireClient/'
+== application started at Jul 20 2020 14:05:09
+Walk on Fire 2.4.1 rev 0 (alpha) made by otclient.ovh built on Jun 22 2020 for arch x86
+Exiting application..
+GPU Radeon RX 580 Series (ATI Technologies Inc.)
+OpenGL 4.6.13559 Compatibility Profile Context 26.20.12028.2
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/luisa/Documents/GitHub/WalkOnFireClient/'
+== application started at Jul 20 2020 14:43:31
+Walk on Fire 2.4.1 rev 0 (alpha) made by otclient.ovh built on Jun 22 2020 for arch x86
+Exiting application..
+GPU Radeon RX 580 Series (ATI Technologies Inc.)
+OpenGL 4.6.13587 Compatibility Profile Context 20.4.2 26.20.15029.27017
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/luisa/Documents/GitHub/WalkOnFireClient/'
+== application started at Jul 21 2020 13:05:51
+Walk on Fire 2.4.1 rev 0 (alpha) made by otclient.ovh built on Jun 22 2020 for arch x86
+Exiting application..
+GPU Radeon RX 580 Series (ATI Technologies Inc.)
+OpenGL 4.6.13587 Compatibility Profile Context 20.4.2 26.20.15029.27017
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/luisa/Documents/GitHub/WalkOnFireClient/'
+== application started at Jul 21 2020 14:13:24
+Walk on Fire 2.4.1 rev 0 (alpha) made by otclient.ovh built on Jun 22 2020 for arch x86
+Exiting application..
+GPU Radeon RX 580 Series (ATI Technologies Inc.)
+OpenGL 4.6.13587 Compatibility Profile Context 20.4.2 26.20.15029.27017
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/luisa/Documents/GitHub/WalkOnFireClient/'
+== application started at Jul 22 2020 12:56:32
+Walk on Fire 2.4.1 rev 0 (alpha) made by otclient.ovh built on Jun 22 2020 for arch x86
+Exiting application..
+GPU Radeon RX 580 Series (ATI Technologies Inc.)
+OpenGL 4.6.13587 Compatibility Profile Context 20.4.2 26.20.15029.27017
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/luisa/Documents/GitHub/WalkOnFireClient/'
+== application started at Jul 22 2020 18:35:33
+Walk on Fire 2.4.1 rev 0 (alpha) made by otclient.ovh built on Jun 22 2020 for arch x86
+Exiting application..
+GPU Radeon RX 580 Series (ATI Technologies Inc.)
+OpenGL 4.6.14736 Compatibility Profile Context 20.7.2 27.20.2001.9003
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/luisa/Documents/GitHub/WalkOnFireClient/'
+== application started at Jul 23 2020 22:41:12
+Walk on Fire 2.4.1 rev 0 (alpha) made by otclient.ovh built on Jun 22 2020 for arch x86
+Exiting application..
